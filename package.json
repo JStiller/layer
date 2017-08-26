@@ -1,0 +1,26 @@
+{
+  "name": "@jstiller/layer",
+  "version": "0.0.1",
+  "description": "A simple layer handler",
+  "main": "layer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JStiller/layer.git"
+  },
+  "keywords": [
+    "layer"
+  ],
+  "author": "José Stiller <info@josestiller.de> (http://www.josestiller.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JStiller/layer/issues"
+  },
+  "homepage": "https://github.com/JStiller/layer#readme",
+  "dependencies": {
+    "@jstiller/ajax": "0.0.1",
+    "@jstiller/dom": "0.0.1"
+  }
+}
